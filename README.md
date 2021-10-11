@@ -1,0 +1,2 @@
+# lgopl
+learn gopol practice
